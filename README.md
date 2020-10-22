@@ -31,6 +31,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhamareshwarakumar&show_icons=true&theme=gotham" alt="Dhamareshwarakumar's Stats" />
 </details>
 <div align="center">
-  ## Top Languages
+<h2> Top Languages</h2>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhamareshwarakumar&theme=gotham&layout=compact">
 </div>
