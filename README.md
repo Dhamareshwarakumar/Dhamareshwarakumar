@@ -30,7 +30,7 @@
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhamareshwarakumar&show_icons=true&theme=gotham" alt="Dhamareshwarakumar's Stats" />
 </details>
-
-## Top Languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhamareshwarakumar&theme=gotham&layout=compact">
-
+<div align="center">
+  ## Top Languages
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhamareshwarakumar&theme=gotham&layout=compact">
+</div>
