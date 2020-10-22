@@ -1,8 +1,8 @@
 <div align="center">
-  <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Dhamareshwarakumar Gandikota Here<h2>
+  <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Dhamareshwarakumar Gandikota Here</h2>
   <i>I am a <b>Cyber Security Enthusiast</b>.</i>
 </div>
-<hr height>
+<hr height="1px" width="80%">
 <img align="right" alt="GIF" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/code.gif?raw=true" width="400" height="260" />
   
 **Talking about Personal Stuffs:**
