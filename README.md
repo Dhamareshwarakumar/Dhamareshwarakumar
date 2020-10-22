@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/code.gif?raw=true" width="400" height="260" />
   
-**Talking about Personal Stuffs:**
+## Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently a student at GMR Institute of Technology
 - 🚀 I’m currently a student Co-Ordinator at ACM-GMRIT
@@ -13,7 +13,7 @@
 - 📫 How to reach me: <a href="mailto:damareshwarakumar@gmail.com">damareshwarakumar@gmail.com</a>
 <!-- - 📝[Resume](link-here) -->
 
-**Languages and Tools:**  
+## Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -30,7 +30,7 @@
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhamareshwarakumar&show_icons=true&theme=gotham" alt="Dhamareshwarakumar's Stats" />
 </details>
-<p align="center">
-  <h4>Top Languages</h4>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhamareshwarakumar&theme=gotham&layout=compact">
-</p>
+
+## Top Languages
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhamareshwarakumar&theme=gotham&layout=compact">
+
