@@ -27,7 +27,7 @@
 <code><img height="40" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/nmap.png"></code>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary><p align="center"> 📈 My GitHub Stats</p></summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhamareshwarakumar&show_icons=true&theme=gotham" alt="Dhamareshwarakumar's Stats" />
 </details>
 <div align="center">
