@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 <!-- <img alt="" src="./assets/code.gif?raw=true" width="400" height="260" style="margin-left: 10px; border-radius: 10px"/> -->
 <img alt="" src="./assets/typing_man.gif?raw=true" width="400" style="margin-left: 10px; border-radius: 10px"/>
 
@@ -41,4 +41,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhamareshwarakumar&layout=compact&theme=dark)
 
-<center />
+</div>
