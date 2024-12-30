@@ -5,7 +5,7 @@
 ## H! <img src='./assets/hi_wave.webp' width="25px">, I'm [**Dhamareshwarakumar**](https://damareshwarakumar.in)
 
 
-<p align="justify">I am a software engineer currently working at Amazon, specializing in Java and Microservices. My career began in 2022 at Riktam Technologies as a Software Intern, later promoted to Software Developer and I contributed to full-stack development using PHP, MySQL, Node.js, Express.js, React.js, and Docker.</p>
+<p align="justify">I am a software engineer currently working at Amazon, specializing in Javascript, Java and Microservices. My career began in 2022 at Riktam Technologies as a Software Intern, later promoted to Software Developer and I contributed to full-stack development using PHP, MySQL, Node.js, Express.js, React.js, and Docker.</p>
 
 <p align="justify">I graduated with Bachelor's in Computer Science from GMRIT and served as the Chairperson of the ACM Student Chapter. I’m always eager to learn and grow as a software developer!</p>
 
